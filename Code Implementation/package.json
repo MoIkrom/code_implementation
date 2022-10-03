@@ -1,0 +1,14 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "",
+  "main": "code.js",
+  "scripts": {
+    "task1": "node palindrom.js",
+    "task2": "node huruf_Konsonan.js",
+    "task3": "node kode_Promo.js",
+    "task4": "node divideAndSort.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
